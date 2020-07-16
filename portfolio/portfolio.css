@@ -1,0 +1,83 @@
+body {
+    background: #282828;
+    color: #ffffff;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 400;
+}
+.jumbotron h1 {
+    font-weight: 700;
+    font-family: 'Bitter', serif;
+}
+.jumbotron p {
+    font-weight: 400;
+    font-family: 'Bitter', serif;
+}
+.jumbotron {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-size: 105%;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 0px;
+    
+}
+.jumbotron h1 {
+    padding-top: 25%;
+}
+.jumbotron hr {
+    border-top: 2px #ffffff solid;
+    width: 25%;
+}
+.heads h2 {
+    text-align: center;
+    padding-top: 5%;
+    font-weight: 700;
+
+}
+.heads hr {
+    border-top: 1px #ffffff solid;
+    width: 25%;
+    padding-bottom: 2%;;
+}
+.row .col-md-4 {
+    text-align: center;
+}
+.row .col-md-6 {
+    text-align: center;
+}
+.row .col-md-4 i{
+    padding-bottom: 2%;
+}
+.row .col-md-4 .fa-js {
+    color: #f0db4f;
+}
+.row .col-md-4 .fa-css3-alt {
+    color: #2965f1;
+}
+.row .col-md-4 .fa-html5 {
+    color: #e44d26;
+}
+.row .col-md-6 .fa-bootstrap {
+    color: #7952b3;
+}
+.row .col-md-12 .fa-code {
+    color: #0868ac;
+}
+#skill, #work {
+    color: white;
+}
+button {
+    margin: 1%;
+}
+@media (max-width:768px) {
+
+      .container .row .col-md-4
+      {
+        border:0px solid !important;
+        }
+       .container .row .border-right
+       {
+        border:0px solid !important;
+       }
+
+
+      }

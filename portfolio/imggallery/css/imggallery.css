@@ -1,0 +1,36 @@
+body {
+    padding-top:70px;
+}
+.navbar {
+    background : #2c3e50;
+    border: 2px #2c3e50 solid;
+    border-radius: 0%;
+
+
+}
+
+a {
+    color: #ffffff;
+}
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+.navbar .container-fluid .navbar-header .navbar-brand {
+    color: white;
+}
+.navbar .container-fluid .collapse .nav a {
+    color: white;
+}
+.jumbotron h1, p{
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    font-weight: 600;
+}
+.jumbotron h1:hover {
+    text-decoration: none;
+
+
+}
+.jumbotron p:hover {
+    text-decoration: none;
+}
