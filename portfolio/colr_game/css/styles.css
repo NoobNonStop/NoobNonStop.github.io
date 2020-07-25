@@ -1,0 +1,80 @@
+body {
+    background: rgb(40, 40, 40) !important;
+}
+.jumbotron .display-4{
+    padding-bottom: 0%;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.jumbotron .display-4 .rgb {
+    font-size: 40px;
+    font-weight: 700;
+   
+}
+.jumbotron {
+    background: rgb(17, 103, 201);
+    height: 60%;
+  
+    color: white;
+    border-radius: 0% !important;
+}
+.button {
+    padding-bottom: 2%;
+    margin-right: 40%;
+    margin-left: 40%;
+    text-align: center;
+}
+.button .diff {
+    display:inline-block;
+    margin: 0 auto;
+    margin-left: 10%;
+}
+.container .row .border {
+    margin: auto;
+}
+.container .row .col-md-3{
+    height: 200px;
+    border-color: #282828 !important;
+    border-radius: 5% !important;
+    
+}
+.button .my-4 span {
+    color: #ffffff;
+    
+}
+
+@media (max-width: 576px) {
+    .button .diff .btn {
+        margin: 5%;
+    }
+    .button .diff {
+        margin: 5%;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
